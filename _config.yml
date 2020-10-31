@@ -50,3 +50,9 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+
+# rss
+gems: [jekyll-feed]
+title: venico’s blog
+description: Sea of Fecundity 丰饶之海
+author: venico
