@@ -3,6 +3,7 @@ layout: post
 title:  initial commit
 categories: random
 date:   2020-09-04 13:45:57 -0700
+author: venico
 ---
 
 搞了一个Github Page的起因是，昨天刷豆瓣的时候，看到豆瓣读书整改，暂停一个月的消息。  
