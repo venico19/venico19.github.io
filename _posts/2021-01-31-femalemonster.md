@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  临时起意的主题阅读：如何成为女性怪物
-categories: book
+categories: 
 tags: book podcast
 date:   2021-01-31 17:00
 author: venico
