@@ -13,7 +13,7 @@ author: venico
 
 我并没有刻意地开展这次主题阅读。  
 这个月里，我读完的第一本书是I love Dick，非常喜欢。这本书和女性写作有关，也提到了Donna Haraway的《赛博格宣言》。在读完这本书的时候，我并没有预料到，我接下来听的两期podcast，随机波动038和随机波动040，都会和这两个主题有关。听完这些podcast后，我又读了Joanna Russ的《如何抑止女性写作》。最终，这两本书和这两期podcast合在一起，凑成了一个小小的主题阅读：如何成为女性怪物。  
->"Female monsters take things as **personally** as they really are. The study facts. Even if rejection makes them feel like the girl who's not invited to the party, they have to understand the reason why."  
+>"Female monsters take things as **personally** as they really are. They study facts. Even if rejection makes them feel like the girl who's not invited to the party, they have to understand the reason why."  
 > Every question, once it's fomulated, is a paradigm, contains its own internal truth. We have to stop diverting ourselves with false questions. ... **I aim to be a female monster too.**   
 >(Chris Kraus, "I love Dick")  
 
