@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  initial commit
-categories: random
 date:   2020-09-04 13:45:57 -0700
 author: venico
 ---
