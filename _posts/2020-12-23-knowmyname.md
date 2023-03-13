@@ -1,16 +1,20 @@
 ---
 layout: post
 title:  读书笔记：《知晓我姓名》 Know My Name, by Chanel Miller
-categories: 
+categories: book_review
 tags: book 
 date:   2020-12-23 10:00
-author: venico
+excerpt_separator: "<!--more-->"
 ---
+***
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567616714l/46264398.jpg" width="250">  
 <img src="https://images-cn.ssl-images-amazon.cn/images/I/51FBJEqqeUL.jpg" width="250">  
 
 * content
 {:toc}  
+
+
+<!--more-->
 
 ***  
 

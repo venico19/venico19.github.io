@@ -1,10 +1,14 @@
-_config.yml
-*Thumbs.db
-
-### Jekyll ###
-.jekyll-cache
+_asset_bundler_cache
 _site
-.sass-cache
+.bundle
+.DS_Store
+.jekyll-cache
 .jekyll-metadata
+.sass-cache
+*.gem
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
 Gemfile.lock
-_drafts
+node_modules
+npm-debug.log*
