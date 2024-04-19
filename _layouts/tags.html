@@ -1,81 +1,29 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
-
-{% assign tags_max = 0 %}
-{% for tag in site.tags %}
-  {% if tag[1].size > tags_max %}
-    {% assign tags_max = tag[1].size %}
-  {% endif %}
-{% endfor %}
-
-{% assign tag_names_array = "" %}
-{% assign tag_counts = "" %}
-{% assign first_array_element = true %}
-{% for i in (1..tags_max) reversed %}
-  {% assign tag_names = "" %}
-  {% assign first_tag = true %}
-
-  {% for tag in site.tags %}
-    {% if tag[1].size == i %}
-      {% if first_tag %}
-        {% assign first_tag = false %}
-      {% else %}
-        {% assign tag_names = tag_names | append: "," %}
-      {% endif %}
-      {% assign tag_names = tag_names | append: tag[0] %}
-    {% endif %}
-  {% endfor %}
-
-  {% if tag_names != "" %}
-    {% assign tag_names = tag_names | split: "," | sort | join: "," %}
-
-    {% if first_array_element %}
-      {% assign first_array_element = false %}
-    {% else %}
-      {% assign tag_names_array = tag_names_array | append: "|" %}
-      {% assign tag_counts = tag_counts | append: "|" %}
-    {% endif %}
-    {% assign tag_names_array = tag_names_array | append: tag_names %}
-    {% assign tag_counts = tag_counts | append: i %}
-  {% endif %}
-{% endfor %}
-
-{% assign tag_names_array = tag_names_array | split: "|" %}
-{% assign tag_counts = tag_counts | split: "|" %}
-
-
-<ul class="taxonomy-index">
-  {% for tag_names in tag_names_array %}
-    {% assign tag_names_list = tag_names | split: "," %}
-    {% assign tag_count = tag_counts[forloop.index0] %}
-    {% for tag_name in tag_names_list %}
-      <li>
-        <a href="#{{ tag_name | slugify }}">
-          <strong>{{ tag_name }}</strong> <span class="taxonomy-count">{{ tag_count }}</span>
-        </a>
-      </li>
-    {% endfor %}
-  {% endfor %}
-</ul>
-
-{% for tag_names in tag_names_array %}
-  {% assign tag_names_list = tag_names | split: "," %}
-  {% for tag_name in tag_names_list %}
-    <section id="{{ tag_name | slugify | downcase }}" class="taxonomy-section">
-      <h2 class="taxonomy-title">{{ tag_name }}</h2>
-      {% for tag in site.tags %}
-        {% if tag[0] == tag_name %}
-          <div class="entries-{{ page.entries_layout | default: 'list' }}">
-            {% for entry in tag.last %}
-              {% include entry.html %}
-            {% endfor %}
-          </div>
-        {% endif %}
+<main class="site-main fadeInDown delay_075s">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{page.title}}</h1>
+    </header><!-- .post-header -->
+    <div class="post-content">
+      <div class="archive-tags">
+        {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+        {% assign sortedTags = site_tags | split:',' | sort %}
+        {% for tag in sortedTags %}
+        <a href="#{{ tag | cgi_escape }}">{{ tag }}</a>{% unless forloop.last %} {% endunless %}
+        {% endfor %}
+      </div><!-- .archive-tag-list -->
+      {% for tag in sortedTags %}
+        <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
+        <ul class="archive-post-list">
+        {% for post in site.tags[tag] %}
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
+        {% endfor %}
+        </ul><!-- .archive-post-list -->
+        <p><a href="#top" class="archive-top-link">Return to top &#8593;</a></p>
       {% endfor %}
-      <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-    </section>
-  {% endfor %}
-{% endfor %}
+    </div><!-- .post-content -->
+  </article><!-- .post -->
+</main><!-- .site-main -->

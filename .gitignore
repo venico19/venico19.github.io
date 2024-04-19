@@ -1,14 +1,17 @@
-_asset_bundler_cache
-_site
+*.swp
+
+# Ruby Gem
+*.gem
 .bundle
+Gemfile.lock
+vendor/bundle
+
+# macOS
 .DS_Store
+
+# Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
-*.gem
-*.sublime-project
-*.sublime-workspace
-codekit-config.json
-Gemfile.lock
-node_modules
-npm-debug.log*
+_asset_bundler_cache
+_site

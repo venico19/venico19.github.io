@@ -6,7 +6,6 @@ tags: book
 date:   2020-12-23 10:00
 excerpt_separator: "<!--more-->"
 ---
-***
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567616714l/46264398.jpg" width="250">  
 <img src="https://images-cn.ssl-images-amazon.cn/images/I/51FBJEqqeUL.jpg" width="250">  
 

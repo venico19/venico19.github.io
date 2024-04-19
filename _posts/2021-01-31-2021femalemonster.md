@@ -6,7 +6,6 @@ tags: book podcast
 date:   2021-01-31 17:00
 excerpt_separator: "<!--more-->"
 ---
-***
 * content
 {:toc}
 
