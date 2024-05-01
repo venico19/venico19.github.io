@@ -2,6 +2,7 @@
 layout: page
 title: About me
 feature_image: 
+permalink: /about/
 ---
 
 **Me, a Female Monster.**
