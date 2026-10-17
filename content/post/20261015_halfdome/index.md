@@ -50,7 +50,7 @@ Half Dome 就是 Yosemite 里那块半球形的大石头⬆.
 #### Glacier Point to Little Yosemite Valley
 起点在 Glacier point. 第一天晚上住在 little yosemite valley campground.  
 从 Glacier point 走到 LYV 是比 Happy isles 到 LYV 更长的, 但因为 Glacier point 地势很高, 走到 LYV 是以下坡为主, 走起来很轻松.   
-选择这条路线的主要难点是要规划一下怎么回去. 从 LYV 回到 Glacier Point 是个很辛苦的大上坡. 不想走回去的话, 可以搭 [Glacier Point shuttle](https://www.travelyosemite.com/things-to-do/guided-bus-tours). 从 yosemite valley 到 Glacier point 的 shuttle 每天两班, 早上 8:30 和下午 13:00 各一班, 单程票价 $28.50. 旺季出游需要提前订票 (我提前一周订, 就没订到早上那班……)  
+选择这条路线的主要难点是要规划一下怎么回去. 从 LYV 回到 Glacier Point 是个很辛苦的大上坡. 不想走这段路的话, 可以把车停在终点, 坐 [Glacier Point shuttle](https://www.travelyosemite.com/things-to-do/guided-bus-tours)到起点. 从 yosemite valley 到 Glacier point 的 shuttle 每天两班, 早上 8:30 和下午 13:00 各一班, 单程票价 $28.50. 旺季出游需要提前订票 (我提前一周订, 就没订到早上那班……)  
 
 #### Happy Isles past LYV (Donohue pass eligible)
 起点在 Happy isles. 和第一种 permit 的区别是, 第一晚不能住在 little yosemite valley. 如果选这个 permit 又要爬 half dome, 可以住在 JMT 靠近 sunrise creek 的地方 ([坐标](https://www.google.com/maps/place/37%C2%B044'37.9%22N+119%C2%B030'09.3%22W)). 扎营位置是偏离 half dome trail 的, 比起住在 LYV, 要多走一些路. 还有一个缺点是, sunrise creek 河边没有熊箱, 需自备熊罐. 
@@ -58,14 +58,14 @@ Half Dome 就是 Yosemite 里那块半球形的大石头⬆.
 
 #### 路线比较
 
-| entry point | exit point | 体力难度 | 是否需要搭车回到起点<sup>1</sup> | 需要哪种 permit |
+| entry point | exit point | 体力难度 | 是否需要坐车到起点<sup>1</sup> | 需要哪种 permit |
 | --- | --- | --- | --- | --- |
 | happy isles | happy isles | 中等 | 否 | Happy Isles to Little Yosemite Valley, Happy Isles past LYV | 
 | glacier point | happy isles | 最简单 | 是 | Glacier Point to Little Yosemite Valley | 
-| glacier point | glacier point | 难 | 否 | Glacier Point to Little Yosemite Valley | 
+| glacier point | glacier point | 困难 | 否 | Glacier Point to Little Yosemite Valley | 
 | happy isles | glacier point | 你有什么想不开 | 是 | Happy Isles to Little Yosemite Valley, Happy Isles past LYV |
 
-<sup>1</sup> 严格来说这段路也不是非要搭车, 也可以走 four mile trail ([alltrail](https://www.alltrails.com/explore/trail/us/california/four-mile-trail)), 但你是有什么想不开? 
+<sup>1</sup> 严格来说这段路也不是非要坐车, 也可以走 four mile trail ([alltrail](https://www.alltrails.com/explore/trail/us/california/four-mile-trail)), 但你是有什么想不开? 
 
 
 ### 怎么抽 Wilderness Permit
@@ -140,6 +140,7 @@ glacier point shuttle $28.5 * 2
 
 帮 day hike 的朋友们总结一些技术要点:
 * 最难的一步就是抽 permit. 但其实我在路上遇到了一个抽不到 permit 的小哥, 硬是爬上来守在 ranger 查 permit 的关卡挨个问哪个 group 有空位, 几分钟就问到一个. 如果人够 E 而且人不多的话倒也是可以试试这招. 
+* 全程耗时 12-14 小时, 建议早上天不亮就出发, 在天黑前下山. 
 * 因为这一路实在是太长了, 建议 day hike 的朋友带一个滤水器, 在途中的取水点 (Nevada fall, little yosemite valley merced river, emerald pool) 取水. 可以减轻一点背包重量. 
 * 一定要带手套. 不需要 harness. 
 * 注意检查鞋底花纹磨损情况, 爬 half dome 全靠手和脚的摩擦力. 
