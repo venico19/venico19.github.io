@@ -96,7 +96,8 @@ Yosemite valley 里的 backpacker campground ([google map](https://maps.app.goo.
 ### Day 0
 周五, 从湾区开到 yosemite, 在 [wilderness permit station](https://www.nps.gov/yose/planyourvisit/permitstations.htm) 下班前领到了 wilderness permit. 现场加钱加了 half dome permit, 价格是每人 $10.    
 我们把车停在了 Yosemite Valley Trailhead Parking ([google map](https://maps.app.goo.gl/Tw3nLgt7pQJUofpv7)). 这是一个可以过夜停车的停车场. 因为担心周末不好停车, 我们周五晚上停好车就不再开车了, 在公园内搭 shuttle 移动很方便.  
-晚上吃了 curry village pizza deck 的 Half dome pizza, 蜂蜜搭 basil 也太妙了, 超绝好吃!  
+晚饭吃了 curry village pizza deck 的 Half dome pizza, 蜂蜜搭 basil 也太妙了, 超绝好吃!  
+晚上住在 backpacker campground ([google map](https://maps.app.goo.gl/nS1bGrzbLY2FYigp7)).  
 
 ### Day 1
 我们没有订到早上 8:30 那班去 Glacier point 的 shuttle, 只订到了 13:00 的.   
