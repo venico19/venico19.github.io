@@ -1,3 +1,15 @@
 /*
     You can add your own custom styles here.
 */
+.article-list > article > .article-summary {
+    padding: 0 var(--card-padding) var(--card-padding);
+    color: var(--card-text-color-secondary);
+    font-family: var(--article-font-family);
+    font-size: var(--article-font-size);
+    line-height: var(--article-line-height);
+    letter-spacing: normal;
+}
+
+.article-list > article > .article-summary p {
+    margin: 0;
+}
